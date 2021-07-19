@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\bin\Debug\net5.0\ToDo.Domain.Core.deps.json
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\bin\Debug\net5.0\ToDo.Domain.Core.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\bin\Debug\net5.0\ref\ToDo.Domain.Core.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\bin\Debug\net5.0\ToDo.Domain.Core.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.AssemblyInfo.cs
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ref\ToDo.Domain.Core.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Domain.Core\obj\Debug\net5.0\ToDo.Domain.Core.pdb

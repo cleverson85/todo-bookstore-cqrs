@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  #api:
+  #  image: ${DOCKER_REGISTRY-}todoserviceapi
+  #  build:
+  #    context: .
+  #    dockerfile: src/ToDo.Service.Api/Dockerfile
+
+  postgres:
+    image: postgres:11-alpine
+    container_name: data-base
+
+  redis:
+    image: redis:6.2-alpine
+    container_name: redis
+
+  mongodb:
+    image: mongo:4
+    container_name: mongodb
+
+  rabbitmq:
+    image: masstransit/rabbitmq
+    container_name: rabbitmq

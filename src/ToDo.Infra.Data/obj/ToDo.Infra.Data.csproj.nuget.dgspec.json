@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Infra.Data\\ToDo.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj",
+        "projectName": "ToDo.Domain.Core",
+        "projectPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\cleverson\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleverson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain\\ToDo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectName": "ToDo.Domain",
+        "projectPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain\\ToDo.Domain.csproj",
+        "packagesPath": "C:\\Users\\cleverson\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleverson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Infra.Data\\ToDo.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Infra.Data\\ToDo.Infra.Data.csproj",
+        "projectName": "ToDo.Infra.Data",
+        "projectPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Infra.Data\\ToDo.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\cleverson\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleverson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain.Core\\ToDo.Domain.Core.csproj"
+              },
+              "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain\\ToDo.Domain.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Desenvolvimento-Estudos-Gambiarras\\ToDo-BookStore-CQRS\\src\\ToDo.Domain\\ToDo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

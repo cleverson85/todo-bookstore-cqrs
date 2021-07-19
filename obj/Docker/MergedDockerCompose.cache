@@ -1,0 +1,89 @@
+services:
+  mongodb:
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_AUTHENTICATION_DATABASE: Bookstore
+      MONGO_INITDB_DATABASE: Bookstore
+      MONGO_INITDB_ROOT_PASSWORD: docker
+      MONGO_INITDB_ROOT_USERNAME: mongo
+    image: mongo:4
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 27017
+      published: 27017
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: mongodb-data
+      target: /data/db
+      volume: {}
+    - type: bind
+      source: D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\mongodb-entrypoint.sh
+      target: /docker-entrypoint-initdb.d/mongodb-entrypoint.sh
+      bind:
+        create_host_path: true
+  postgres:
+    container_name: data-base
+    environment:
+      POSTGRES_DB: Bookstore
+      POSTGRES_PASSWORD: docker
+      POSTGRES_USER: postgres
+    image: postgres:11-alpine
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: 15435
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: postgres-data
+      target: /var/lib/postgresql/data
+      volume: {}
+  rabbitmq:
+    container_name: rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_PASS: guest
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_VHOST: /
+    image: masstransit/rabbitmq
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5672
+      published: 5672
+      protocol: tcp
+    - mode: ingress
+      target: 15672
+      published: 15672
+      protocol: tcp
+    restart: always
+  redis:
+    command:
+    - redis-server
+    - --requirepass
+    - docker
+    container_name: redis
+    image: redis:6.2-alpine
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 6379
+      published: 6379
+      protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose3193386650287614376_default
+volumes:
+  mongodb-data:
+    name: dockercompose3193386650287614376_mongodb-data
+  postgres-data:
+    name: dockercompose3193386650287614376_postgres-data

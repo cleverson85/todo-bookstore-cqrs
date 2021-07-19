@@ -1,0 +1,17 @@
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.deps.json
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ref\ToDo.Infra.CrossCutting.Bus.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Domain.Core.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Domain.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Domain.Core.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\bin\Debug\net5.0\ToDo.Domain.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.AssemblyInfo.cs
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.csproj.CopyComplete
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ref\ToDo.Infra.CrossCutting.Bus.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.CrossCutting.Bus\obj\Debug\net5.0\ToDo.Infra.CrossCutting.Bus.pdb

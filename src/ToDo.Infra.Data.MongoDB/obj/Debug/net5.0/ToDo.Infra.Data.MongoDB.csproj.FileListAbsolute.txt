@@ -1,0 +1,17 @@
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Infra.Data.MongoDB.deps.json
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Infra.Data.MongoDB.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ref\ToDo.Infra.Data.MongoDB.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Infra.Data.MongoDB.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Domain.Core.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Domain.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Domain.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\bin\Debug\net5.0\ToDo.Domain.Core.pdb
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.AssemblyInfo.cs
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.csproj.CopyComplete
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ref\ToDo.Infra.Data.MongoDB.dll
+D:\Desenvolvimento\Desenvolvimento-Estudos-Gambiarras\ToDo-BookStore-CQRS\src\ToDo.Infra.Data.MongoDB\obj\Debug\net5.0\ToDo.Infra.Data.MongoDB.pdb

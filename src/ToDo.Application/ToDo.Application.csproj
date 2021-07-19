@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="FluentValidation" Version="10.2.3" />
+    <PackageReference Include="MassTransit" Version="7.2.1" />
+    <PackageReference Include="Minio" Version="3.1.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ToDo.Domain\ToDo.Domain.csproj" />
+    <ProjectReference Include="..\ToDo.Infra.Data.MongoDB\ToDo.Infra.Data.MongoDB.csproj" />
+    <ProjectReference Include="..\ToDo.Infra.Data.Repository\ToDo.Infra.Data.Repository.csproj" />
+    <ProjectReference Include="..\ToDo.Infra.Data\ToDo.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
